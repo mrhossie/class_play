@@ -1,0 +1,20 @@
+{
+  "name": "class_play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhossie/class_play.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhossie/class_play/issues"
+  },
+  "homepage": "https://github.com/mrhossie/class_play#readme"
+}
